@@ -1,0 +1,10 @@
+var Mountains = ["Nanga Parbat", "KaraKoram", "Salt Range", "Himalayas", "Broad Peak"];
+var Rivers = ["Indus River", "Chenab Rivers", "Ravi", "Sutlej", "Jhelum River"];
+var Countries = ["Plastine", "Saudia Arabia", "Qatar", "Pakistan", "Afghanistan"];
+var Cities = ["Los Angles", "Texas", "North Carolina", "Phoenix", "San Diego"];
+var Languages = ["Spanish", "Chinese", "Tagalog", "Vietnamese", "Arabic"];
+console.log(Mountains);
+console.log(Rivers);
+console.log(Countries);
+console.log(Cities);
+console.log(Languages);
